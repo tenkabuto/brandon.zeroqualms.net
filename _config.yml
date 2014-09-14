@@ -6,10 +6,10 @@
 name: Brandon Hall
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Thoughts and projects by an amateur philosopher
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/1221535
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   facebook: 
   flickr: 
   github: tenkabuto
-  instagram: 
+  instagram: tenkabuto
   linkedin: 
   pinterest: 
   rss: yes # just type anything here for a working RSS icon, make sure you set the "url" above!

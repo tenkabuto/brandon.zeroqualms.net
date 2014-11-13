@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+title: Connecting to the LRCCD Wifi Network with Linux Mint
 ---
 
 Sometime around the beginning of 2014, my college district upgraded/changed their Wi-Fi infrastructure, and seemingly no one but myself was affected by this change. Whereas other students' laptops would automatically and successfully connect to the network, my laptop (running Linux Mint 16) wouldn't. Trying the guides my college provided and contacting both the district's technical support and a professor that teaches Linux Networking, didn't help, but I finally figured it out[^1].

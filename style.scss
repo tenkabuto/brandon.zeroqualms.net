@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $royalPurple;
+  color: $royalGreen;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $royalPurple;
+    color: $royalGreen;
   }
 }
 
@@ -227,7 +227,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $royalPurple;
+      color: $royalGreen;
     }
   }
 }

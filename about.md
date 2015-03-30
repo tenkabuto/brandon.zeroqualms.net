@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![](http://i19.photobucket.com/albums/b160/tenkabuto/aboutMeCloseup.jpg "Brandon Hall")
-
 Hello, my name's Brandon Hall. I'm a biophiliac, a "[lover of life and living systems](http://wikipedia.en.org/wiki/Biophilia_hypothesis "Biophilia hypothesis")", and I enjoy:
 
 * Philosophy: Thinking critically about the concepts that I and others behold in our everyday lives, often without any deep or deliberate examination of such. For instance, I'm quite involved with the

@@ -4,12 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+![](http://i19.photobucket.com/albums/b160/tenkabuto/aboutMeCloseup.jpg "Brandon Hall")
 
-### More Information
+Hello, my name's Brandon Hall. I'm a biophiliac, a "[lover of life and living systems](http://wikipedia.en.org/wiki/Biophilia_hypothesis "Biophilia hypothesis")", and I enjoy:
 
-A place to include any other types of information that you'd like to include about yourself. 
+* Philosophy: Thinking critically about the concepts that I and others behold in our everyday lives, often without any deep or deliberate examination of such. For instance, I'm quite involved with the
+    * Philosophy of business: Thinking about what business is and can be, as well as what role it plays in our lives.
+* Psychology: Thinking critically about the various factors that cause people to behave the way that they do.
+* Spirituality: Thinking about values and actions that transcend the world's everyday manners of being.
+
+## School
+I'm currently in my second year of college, majoring in Philosophy; I plan to go on to study Business, using my knowledge of Philosophy to craft and implement strong and effective business strategies for for-profit businesses and non-profit organizations alike.
+
+## Work
+Since January of 2012, I have managed customer orders and customer service for the start-up [Sip California](https://sipcalifornia.com "Sip California").
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Please contact me using the social media and email buttons below:

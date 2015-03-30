@@ -14,7 +14,7 @@ Hello, my name's Brandon Hall. I'm a biophiliac, a "[lover of life and living sy
 * Spirituality: Thinking about values and actions that transcend the world's everyday manners of being.
 
 ## School
-I'm currently in my second year of college, majoring in Philosophy; I plan to go on to study Business, using my knowledge of Philosophy to craft and implement strong and effective business strategies for for-profit businesses and non-profit organizations alike.
+I'm currently in college and majoring in Philosophy. I plan to use my knowledge of Philosophy to craft and implement effective business strategies for for-profit businesses and non-profit organizations alike.
 
 ## Work
 Since January of 2012, I have managed customer orders and customer service for the start-up [Sip California](https://sipcalifornia.com "Sip California").

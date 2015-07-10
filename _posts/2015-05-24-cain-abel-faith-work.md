@@ -1,7 +1,7 @@
 ---
-published: false
 layout: post
 title: Cain and Abel: Faith and Work
+published: false
 ---
 
 During the past semester I went through a course entitled *Intro to the Bible*, where I learned and practiced the process of exegesis, [the critical explanation or interpretation of a text](http://www.merriam-webster.com/dictionary/exegesis), in regards to the Hebrew and Christian bibles (Old and New Testaments). While the class read through Genesis and talked about it, I came to the following interpretation about [Genesis 4][gen4]:2-5, but I was unable to write about it for the class as it was beyond the scope of the class.

@@ -8,6 +8,9 @@ name: Brandon Hall
 # Short bio or description (displayed in the header)
 description: Thoughts and projects by a Christian and amateur philosopher
 
+# Hooks into author description and picture in the footer
+author: 'Brandon Hall'
+
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-5276854-15
 

@@ -24,6 +24,8 @@ url: http://brandon.zeroqualms.net
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: http://brandon.zeroqualms.net
 
+domain_name: 'http://brandon.zeroqualms.net'
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #

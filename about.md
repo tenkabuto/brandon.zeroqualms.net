@@ -19,4 +19,6 @@ Since January of 2012, I have managed customer orders and customer service for t
 
 ### Contact me
 
-Please contact me using the social media and email buttons below:
+* Email: <tenkabuto@gmail.com>
+* Twitter: <https://twitter.com/tenkabuto>
+* Cupcake: <https://tenkabuto.cupcake.is/profile>

@@ -36,7 +36,7 @@ domain_name: 'http://brandon.zeroqualms.net'
 
 paginate: 15
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # Use the following plug-ins

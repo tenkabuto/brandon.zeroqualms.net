@@ -27,6 +27,8 @@ url: http://brandon.zeroqualms.net
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: 
 
+repository: https://github.com/tenkabuto/brandon.zeroqualms.net
+
 # Required for Share buttons on pages
 domain_name: 'http://brandon.zeroqualms.net'
 

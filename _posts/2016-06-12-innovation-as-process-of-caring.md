@@ -16,6 +16,9 @@ By thinking about innovation this way, we can:
 1. better understand the process of innovation, which may increase the likelihood of "innovations" being produced
 2. see how things that were once considered to be "innovations" ceased to be regarded as innovative, outside of history books[^1]
 
-[^1]: A thing ceases to be regarded as being "innovative" once the things that are cared for/about through its existence become appropriately cared about.
+## What would-be Innovators would do
+According to this conception of innovation, any person that is interested in being a creator of innovations should concern themselves with considering and caring about things that others either do not care about or do not care enough about.
+
+[^1]: A thing ceases to be regarded as being "innovative" once the things that are cared for/about through its existence become appropriately and commonly cared about.
 	
 	For instance, prior to the advent of the iPhone, the 'importance of designing interfaces specifically for use on a touchscreen device' was seemingly under-cared about, so when the iPhone debuted with an interface that was designed exclusively for use though its touchscreen, it was regarded as being innovative for how it demonstrated the 'importance of designing interfaces specifically for use on a touchscreen device'. However, now that the importance of such has been widely accepted and other software and hardware creators have (arguably) matched Apple's ability to pay homage to the 'importance of designing interfaces specifically for use on a touchscreen device', the iPhone is regarded as being less innovative than it had once been with regards to the degree to which it pays homage to the 'importance of designing interfaces specifically for use on a touchscreen device'.

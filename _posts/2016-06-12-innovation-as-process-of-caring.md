@@ -9,7 +9,7 @@ When we have talked about innovations, we have for a long while been concerned w
 
 However, I think that this focus upon the result of the process of innovation (or innovating) have caused us to overlook what innovation really is. As a result, I think that we lack an understanding of what enables "innovations" to emerge and why, after a time, they lose their innovativeness.
 
-## Reconception of Innovating
+## Reconception of Innovation or Innovating
 When we think about innovation, we should think about the process that preceded the result. We should think about the process of innovation, or "innovating," as a process in which people care about something that others either do not care about or do not care enough about.
 
 By thinking about innovation this way, we can:

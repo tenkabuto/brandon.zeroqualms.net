@@ -17,5 +17,5 @@ I'm currently in college and majoring in Philosophy. I plan to use my knowledge 
 ### Contact me
 
 * Email: <tenkabuto@gmail.com>
-* Twitter: <https://twitter.com/tenkabuto>
+* Twitter: <https://twitter.com/poeticstupid>
 * Cupcake: <https://tenkabuto.cupcake.is/profile>

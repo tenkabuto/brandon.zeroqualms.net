@@ -3,7 +3,7 @@ layout: post
 title: Innovation as a Process of Caring
 ---
 
-Much is said these days about "innovation" and "innovations," but I think that "innovation" is being thought about in an incorrect and unhelpful manner.
+Much is said these days about "innovation" and "innovations," but I think that "innovation" is being thought about in a vague and unhelpful manner.
 
 When we have talked about innovations, we have for a long while been concerned with some particular things. We have said "ah, _that_ [thing] is such an innovation." And sometimes we have admitted that these things are the results of some process, a process that we have come to call "innovation" or "innovating" --- as it results, presumably, in the creation of innovations.
 

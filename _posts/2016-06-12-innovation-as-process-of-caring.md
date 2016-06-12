@@ -14,4 +14,6 @@ When we think about innovation, we should think about the process that preceded 
 By thinking about innovation this way, we can:
 
 1. better understand the process of innovation, which may increase the likelihood of "innovations" being produced
-2. see how things that were once considered to be "innovations" ceased to be regarded as innovative, outside of history books
+2. see how things that were once considered to be "innovations" ceased to be regarded as innovative, outside of history books[^1]
+
+[^1]: A thing ceases to be regarded as being "innovative" once the things that are cared for/about through its existence become appropriately cared about.

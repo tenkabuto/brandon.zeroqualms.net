@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Innovation as a Process of Caring
 ---
 

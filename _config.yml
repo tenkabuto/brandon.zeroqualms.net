@@ -27,10 +27,19 @@ url: http://brandon.zeroqualms.net
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: 
 
-repository: https://github.com/tenkabuto/brandon.zeroqualms.net
+repository: tenkabuto/brandon.zeroqualms.net
 
 # Required for Share buttons on pages
 domain_name: 'http://brandon.zeroqualms.net'
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      disqus: "true"
 
 #
 # !! You don't need to change any of the configuration flags below !!

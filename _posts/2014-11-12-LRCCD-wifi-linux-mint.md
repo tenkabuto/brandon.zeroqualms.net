@@ -1,6 +1,4 @@
 ---
-published: true
-layout: post
 title: Connecting to the LRCCD Wifi Network with Linux Mint
 ---
 

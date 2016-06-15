@@ -36,6 +36,6 @@ Increased payment frequency per month and decreased payment periods might lead w
 
 [^lessMoneyMoreWork]: Assuming that due to my proposed effect of the monthly or bi-weekly payments, a worker spends more money, which they earn through working, than they otherwise would, thereby leading them to work more to recoup the money they spent (assuming that they would wish to recoup that amount to attain some ultimately desired level of income).
 
-However, I am concerned about the possibility that if the payment frequency per month increase and payment periods decrease, workers will become greater workaholics than they currently are.
+However, I am concerned about the possibility that if the payment frequency per month increases and payment periods decreases, workers will become greater workaholics than they currently are.
 I say this while envisioning a future where workers are no longer anxious about the prospect of working a whole 'nother month to receive a paycheck
 but are unwittingly obsessed with the thought of working just one more day for just one more dollar.

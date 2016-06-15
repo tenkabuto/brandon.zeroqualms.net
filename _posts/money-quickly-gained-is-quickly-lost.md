@@ -1,5 +1,5 @@
 ---
-title: "Money That is Quickly Gained is Quickly Lost," Payroll Psychology, and Consumerism
+title: "'Money That is Quickly Gained is Quickly Lost,' Payroll Psychology, and Consumerism"
 ---
 
 I recently came up with the quoted aphorism that is in the title, and while I quickly realized that it isn't necessarily true[^1],
@@ -19,8 +19,9 @@ or that they have a higher fund gain rate than they actually do.
 People might think such by incorrectly dividing the funds gained, through their paycheck, by merely the amount of labor that they had to give on that specific day in order to receive it, instead of the amount of labor that they had to give during the period over which they were not paid.
 
 [^comeIntoWorkAnyway]: Assuming that they are paid during a day that they are working, or are not forced to collect their paycheck on a day they aren't working.
-The issue of one feeling like they have a higher fund gain rate than they actually do might be worse in cases where one isn't working on the day that they receive their paycheck,
-as $$(money gained)/(labor given on that day)$$ is even less.
+
+	The issue of one feeling like they have a higher fund gain rate than they actually do might be worse in cases where one isn't working on the day that they receive their paycheck,
+as `(money gained)/(labor given on that day)` is even less.
 
 If this was found to be the case, I suspect that the rate of money spent (fund loss rate) would decrease[^feelingsFade] during a certain time period (the period during which one is still affected by the sudden gaining of money) until it reaches a common rate (when one may be said to be no longer affected).
 While one is still affected by the feeling that they have a higher fund gain rate than they actually do, however, they will likely spend money at a higher rate, or have a higher fund loss rate.

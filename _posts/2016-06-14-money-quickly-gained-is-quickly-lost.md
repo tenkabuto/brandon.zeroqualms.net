@@ -1,6 +1,7 @@
 ---
 title: "'Money That is Quickly Gained is Quickly Lost,' Payroll Psychology, and Consumerism"
 exerpt: In this post, I present a hypothetical error that humans may make when they receive their monthly or bi-weekly paychecks and explore how the error might help the economy and cause workers to suffer.
+tags: [philosophy, psychology, finance, consumerism, aphorisms]
 ---
 
 I recently came up with the quoted aphorism that is in the title, and while I quickly realized that it isn't necessarily true[^1],

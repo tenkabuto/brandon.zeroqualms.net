@@ -1,6 +1,7 @@
 ---
 title: Innovation as a Process of Caring
 excerpt: Much is said these days about "innovation" and "innovations," but I think that "innovation" is being thought about in a vague and unhelpful manner. In this post, I suggest a conception of innovation that will help people innovate.
+tags: [innovation, philosophy, concepts]
 ---
 
 Much is said these days about "innovation" and "innovations," but I think that "innovation" is being thought about in a vague and unhelpful manner.

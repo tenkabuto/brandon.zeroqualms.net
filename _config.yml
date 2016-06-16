@@ -32,6 +32,10 @@ repository: tenkabuto/brandon.zeroqualms.net
 # Required for Share buttons on pages
 domain_name: 'http://brandon.zeroqualms.net'
 
+# Where are tags and categories displayed
+tag_page: '/tags/'
+category_page: '/categories/'
+
 defaults:
   -
     scope:

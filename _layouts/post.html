@@ -55,11 +55,9 @@ post_class: post-template
                 </figure>
                 <section class="author">
                     <!-- Author Name -->
-                    <h4> {{ site.author }} </h4>
+                    <h4>About the Author, {{ site.author }} </h4>
                     <!-- Author Bio -->
-                    <p> 
-                        I'm a Christian, lover of skateboarding and other life-revering things and ideas that's studying philosophy and the philosophy of business.
-                    </p>
+                        {{ site.bio }}
                 </section>                
             {% endif %}
 

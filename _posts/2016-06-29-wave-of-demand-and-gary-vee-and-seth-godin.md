@@ -3,7 +3,7 @@ title: "Societal Wave of Demand, and Gary Vee and Seth Godin's Differing Views a
 tags: [business-philosophy, philosophy, economics, marketing, social-media, inbound-marketing]
 ---
 
-There are currently a few big, public figures that think about business, marketing, and entrepreneurialism, and of them, Gary Vee and Seth Godin are possibly the most interesting.
+There are currently a few big, public figures that think about business, marketing, and entrepreneurialism, and of them, [Gary Vaynerchuk (Gary Vee)](https://www.garyvaynerchuk.com) and [Seth Godin](http://sethgodin.typepad.com) are possibly the most interesting.
 Both of them primarily agree about a few things, but they differ in an important way.
 Gary harps upon the importance of quantity, while Seth almost too tenderly advances the importance of quality.
 

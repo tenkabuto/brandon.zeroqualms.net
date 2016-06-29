@@ -1,5 +1,5 @@
 ---
-title: "Societal Wave of Demand, and Gary Vee and Seth Godin's differing views about it"
+title: "Societal Wave of Demand, and Gary Vee and Seth Godin's Differing Views about It"
 tags: [business-philosophy, philosophy, economics, social-media]
 ---
 
@@ -11,6 +11,10 @@ They both agree that a societal shift has taken place and
 that if you do not know which way it has shifted, you will likely not be able to become successful by doing the same things that people used to be able to do and become successful.
 Thankfully, they each offer freely, if not pleadingly, their own solution, their own view of where society has shifted to and how you can become successful.
 
-I suggest that because economics largely tells us that one is able to succeed, or to make money, by catering to demand, we should view societies as things that ride (or fail to ride) waves of demand.
-Accordingly, Gary and Seth are suggesting that these waves of demand are moving towards two different, but possibly overlapping, directions: those of quantity and quality, respectively.
-They also suggest that, like with waves, if you figure out which way demand is going, you can respond appropriately (often by pivoting your thinking or strategy) and be both not obliterated by it and able to both ride it out and have some fun while doing so.
+I suggest that because economics largely tells us that one is able to succeed, or to make money, by catering to demand,[^notAlways] we should view societies as things that ride (or fail to ride) waves of demand.
+Those waves move towards what is demanded.
+
+Gary and Seth suggest that these waves of demand are moving towards two different, but possibly overlapping, directions: those of quantity and quality, respectively.
+They also suggest that, like with waves, if you figure out which direction demand moving going, you can respond appropriately (often by pivoting your thinking or strategy) and be both not-obliterated by it and be able to both ride it out and have some fun while doing so.
+
+[^notAlways]: If it costs you more money (marginally) to cater to that demand than catering it delivers to you (marginally), you're gonna have a bad time.

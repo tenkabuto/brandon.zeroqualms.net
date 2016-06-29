@@ -1,9 +1,9 @@
 ---
 title: "Societal Wave of Demand, and Gary Vee and Seth Godin's Differing Views about It"
-tags: [business-philosophy, philosophy, economics, social-media, inbound-marketing]
+tags: [business-philosophy, philosophy, economics, marketing, social-media, inbound-marketing]
 ---
 
-There are currently a few big, public figures that think about business and entrepreneurialism, and of them, Gary Vee and Seth Godin are possibly the most interesting.
+There are currently a few big, public figures that think about business, marketing, and entrepreneurialism, and of them, Gary Vee and Seth Godin are possibly the most interesting.
 Both of them primarily agree about a few things, but they differ in an important way.
 Gary harps upon the importance of quantity, while Seth almost too tenderly advances the importance of quality.
 
@@ -30,8 +30,12 @@ I am particularly concerned because Seth suggests nearly the opposite.
 
 Seth starts out by suggesting that our world's market has matured and that it no longer demands what it once did, quantity.
 He, like Gary, suggests that one should produce work that previously was not available,
-but he implicitly suggests that doing so is merely a symptom or result of producing more quality and focusing more upon quality.
-He suggests that much of the spoils will, for as long as this wave of demand continues
+but he implicitly suggests that doing so is merely a symptom or result of producing more quality and focusing more upon the production of quality.
+He suggests that much more money will be made by those who cater to the demand for quality than those who stick to supplying a quantity-oriented market.
 
+In other words, Gary is arguing for a hard and fast pivot to quantity, with only a slow-pivot towards quality, while Seth is arguing for a hard and fast pivot to quality.
 
-Gary's advice might only be relevantly and effectively applied within the realm of social media and inbound (content) marketing.
+Lastly, I think that Seth is arguing for a more general shift in society's demand than Gary is
+and that relative to the rest of society, the markets that Gary knows about --- social media and inbound marketing --- is less mature.
+Therefore, Seth's advice may be more generally applicable, while
+Gary's advice might only be relevant to and effectively applied within the markets of social media and inbound marketing.

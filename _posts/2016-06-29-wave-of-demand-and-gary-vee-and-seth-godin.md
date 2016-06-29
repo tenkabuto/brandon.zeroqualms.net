@@ -14,7 +14,9 @@ Thankfully, they each offer freely, if not pleadingly, their own solution, their
 I suggest that because economics largely tells us that one is able to succeed, or to make money, by catering to demand,[^notAlways] we should view societies as things that ride (or fail to ride) waves of demand.
 Those waves move towards what is demanded.
 
-Gary and Seth suggest that these waves of demand are moving towards two different, but possibly overlapping, directions: those of quantity and quality, respectively.
-They also suggest that, like with waves, if you figure out which direction demand moving going, you can respond appropriately (often by pivoting your thinking or strategy) and be both not-obliterated by it and be able to both ride it out and have some fun while doing so.
+[^notAlways]: If it costs you more money (marginally) to cater to demand than catering it delivers to you (marginally), you're gonna have a bad time.
 
-[^notAlways]: If it costs you more money (marginally) to cater to that demand than catering it delivers to you (marginally), you're gonna have a bad time.
+Gary and Seth suggest that these waves of demand are moving towards two different, but possibly overlapping, directions: those of quantity and quality, respectively.
+In other words, Gary suggests that quantity is demanded now, possibly more than ever, while Seth suggests that quality is demanded now, possibly more than ever.
+
+They also suggest that, like with waves, if you figure out which direction demand is moving, you can respond appropriately (often by pivoting your thinking or strategy) and be both not-obliterated by it and be able to both ride it out and have some fun while doing so.

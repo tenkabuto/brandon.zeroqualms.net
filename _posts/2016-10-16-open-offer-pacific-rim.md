@@ -12,5 +12,5 @@ After the event, I will provide a transcribed version of the notes I took, and I
 I cannot guarantee that I will be able to answer all the questions that I receive, but I will try.
 
 * Panel 1: "California Trade & Tourism Trends – Opportunities and Challenges"
-* Panel 2: "Panel 2: The California Lifestyle Brand"
-* Panel 3: "Panel 3: How to do Business in … A view from the market!" (I am most interested in this panel)
+* Panel 2: "The California Lifestyle Brand"
+* Panel 3: "How to do Business in … A view from the market!" (I am most interested in this panel)

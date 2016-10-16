@@ -4,7 +4,7 @@ tags: [economics, marketing, event-notes]
 ---
 
 Hello, I am hoping that I may act as a resource for some of you with relevant interests.
-I will attend the paid event on campus this Wednesday entitled "How to do Business in the Pacific Rim" (details here: <http://www.calasiancc.org/event/how-to-do-business-in-the-pacific-rim-2/>), and I imagine that many of you will not be able attend but that you may benefit from its information.
+I will attend the paid event on campus this Wednesday (October 19, 2016) entitled "How to do Business in the Pacific Rim" (details here: <http://www.calasiancc.org/event/how-to-do-business-in-the-pacific-rim-2/>), and I imagine that many of you will not be able attend but that you may benefit from its information.
 
 **Please take a look at the panel schedule at the link above (panel titles below) and send me (via comments here) questions and areas of interest that, if you were to attend, you'd take notes about.**
 I will take notes during the event and keep your questions and areas of interest in mind.

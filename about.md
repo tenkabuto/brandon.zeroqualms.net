@@ -12,10 +12,9 @@ Hello, my name's Brandon Hall. I'm a biophiliac, a "[lover of life and living sy
 * Spirituality: Thinking about values and actions that transcend the world's everyday manners of being.
 
 ## School
-I'm currently in college and majoring in Philosophy. I plan to use my knowledge of Philosophy to craft and implement effective business strategies for for-profit businesses and non-profit organizations alike.
+I'm currently in college and am majoring in Economics. I previously studied Philosophy. I plan to use my knowledge of Economics and Philosophy to craft and implement effective business strategies for for-profit businesses and non-profit organizations alike.
 
 ### Contact me
 
 * Email: <tenkabuto@gmail.com>
 * Twitter: <https://twitter.com/poeticstupid>
-* Cupcake: <https://tenkabuto.cupcake.is/profile>

@@ -1,6 +1,6 @@
 ---
 title: "Resolution of Prashad's Ambiguity Regarding Whether Polyculturalism Considers Humans to be Equal or Unequal"
-excerpt: "A few weeks ago I got into something less than a debate with one of my Professors regarding the following quote from Vijay Prashad's _Everybody Was Kung Fu Fighting_. This is is an analysis of both views (mine and my Professors). In the end, I saw how the Professor may have reached the conclusion that they did."
+excerpt: "A few weeks ago I got into something less than a debate with one of my Professors regarding the following quote from Vijay Prashad's _Everybody Was Kung Fu Fighting_. This is is an analysis of both views (mine and my Professor's). In the end, I saw how the Professor may have reached the conclusion that they did."
 tags: [philosophy, reading, debate, college]
 ---
 

@@ -42,7 +42,7 @@ Note that in fact, the notion that statement 1 is considering states is further 
 
 Think for a moment about how we tend to think about **inherent** aspects of things.
 Do we tend to think of **inherent** aspects of things as varying or changing from one moment to the next, so long as the thing as a whole remains consistent across both moments[^cmon-man]?
-	Do we tend to think of a blue piece of paper, of which its being of the color blue is an inherent aspect, as a thing that, from this moment to the next, could change its color to red or orange, yet still be properly called/identified a **blue** piece of paper?
+	Do we tend to think of a blue piece of paper, of which its being of the color blue is an inherent aspect, as a thing that, from this moment to the next, could change its color to red or orange, yet still be properly called a **blue** piece of paper?
 
 No, so in the case of Prashad's writing, even if Prashad had neglected to suggest to the reader that he was implicitly making a statement regarding states, his point is confused by his usage of the term "inherent", as it suggests that he is not making a statement that significantly regards states.
 

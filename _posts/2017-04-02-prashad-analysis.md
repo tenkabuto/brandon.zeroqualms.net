@@ -46,7 +46,7 @@ Do we tend to think of **inherent** aspects of things as varying or changing fro
 
 No, so in the case of Prashad's writing, even if Prashad had neglected to suggest to the reader that he was implicitly making a statement regarding states, his point is confused by his usage of the term "inherent", as it suggests that he is not making a statement that significantly regards states.
 
-[^cmon-man]: I am worried that a weak reader may read this sentence and think "yes, but I have already read statement 3, which suggests that a human is not consistent, so your point is moot." I would applaud such a reader for their ability to make connections, but I was say also, "dear reader, when you consider statement 1, consider it and only it, unless it suggests that you should also consider something else. I am sorry, but statement 1 does not even vaguely suggest the existence of statement 3, let alone suggest that you should consider it while considering statement 1."
+[^cmon-man]: I am worried that a weak reader may read this sentence and think "yes, but I have already read statement 3, which suggests that a human is not consistent, so your point is moot." I would applaud such a reader for their ability to make connections, but I would tell them, "dear reader, when you consider statement 1, consider it and only it, unless it suggests that you should also consider something else. I am sorry, but statement 1 does not even vaguely suggest the existence of statement 3, let alone suggest that you should consider it while considering statement 1."
 
 Nonetheless, I grant that if we are to maintain that statement 1 and 3 are consistent, we must read them both as though they were both regarding states.
 When read as such, they are consistent.

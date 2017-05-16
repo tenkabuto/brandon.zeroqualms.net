@@ -69,16 +69,15 @@ post_class: post-template
 			// Requires jQuery of course.
 			$(document).ready(function() {
 			    $('.show-comments').on('click', function(){
-				  var disqus_shortname = 'abrodhisattva'; // Replace this value with *your* username.
-
-				  // ajax request to load the disqus javascript
-				  $.ajax({
-					  type: "GET",
-					  url: "//" + disqus_shortname + ".disqus.com/embed.js",
-					  dataType: "script",
-					  cache: true
-				  });
-				  // hide the button once comments load
+				    // Execute original Disqus code
+				var disqus_shortname = '{{ site.disqus }}'; 
+				var disqus_developer = 0; // developer mode is on
+				(function() {
+				    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+				    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+				    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+				})();
+				// hide the button once comments load
 				  $(this).fadeOut();
 			    });
 			});

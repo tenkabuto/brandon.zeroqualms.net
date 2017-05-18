@@ -15,11 +15,11 @@ If you need any further clarification (or want to say thanks), please send me a 
 
 Open the Networking window (pictured below), click on the arrow to the right of the LRCCD network, click on the now-displayed "Settings..." button, and a window should have popped up
 
-![Linux Mint 17's Networking Settings]({{ site.baseurl }}/images/Linux%20Mint%20-%20Networking%20Window.png)
+![Linux Mint 17's Networking Settings](../images/Linux%20Mint%20-%20Networking%20Window.png)
 
 In the window, find and click on the Wi-Fi Security tab, then proceed to change the Security and Authentication settings to what is pictured below
 
-![Editing Network's Wi-Fi Security]({{ site.baseurl }}/images/Linux%20Mint%20-%20Editing%20LRCCD%20Wi-Fi%20Security.png)
+![Editing Network's Wi-Fi Security](../images/Linux%20Mint%20-%20Editing%20LRCCD%20Wi-Fi%20Security.png)
 
 Enter your student ID in the field next to Username, and enter your student password in the field below that
 

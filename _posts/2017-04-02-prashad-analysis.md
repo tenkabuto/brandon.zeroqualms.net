@@ -1,7 +1,12 @@
 ---
-title: "Resolution of Prashad's Ambiguity Regarding Whether Polyculturalism Considers Humans to be Equal or Unequal"
-excerpt: "A few weeks ago I got into something less than a debate with one of my Professors regarding a quote from Vijay Prashad's _Everybody Was Kung Fu Fighting_. This is is an analysis of both views (mine and my Professor's). In the end, I saw how the Professor may have reached the conclusion that they did."
-tags: [philosophy, reading, debate, college]
+title: "Lots of Cringe"
+tags: [philosophy, reading, debate, college, personal, cringe]
+---
+
+With the help of my Professor, I see now that the whole "contradiction" business laid out in the sections below were truly caused by my misreading the passage. Super embarrassing. An explanation of the issue is in the next paragraph, and I will preserve my original writeup to maintain a record of my blunder.
+
+The issue was that I had misread the very beginning of statement 1 as though instead of reading "Polyculturalism does not posit ...", it read "Polyculturalism posits that it is not the case that ...".
+
 ---
 
 A few weeks ago I got into something less than a debate with one of my Professors regarding the following quote from Vijay Prashad's _Everybody Was Kung Fu Fighting_.
